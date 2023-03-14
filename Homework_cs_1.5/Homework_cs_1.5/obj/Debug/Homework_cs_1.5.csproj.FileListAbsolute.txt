@@ -1,0 +1,7 @@
+C:\Users\Ольга\source\repos\Homework_cs\Homework_cs_1.5\Homework_cs_1.5\bin\Debug\Homework_cs_1.5.exe.config
+C:\Users\Ольга\source\repos\Homework_cs\Homework_cs_1.5\Homework_cs_1.5\bin\Debug\Homework_cs_1.5.exe
+C:\Users\Ольга\source\repos\Homework_cs\Homework_cs_1.5\Homework_cs_1.5\bin\Debug\Homework_cs_1.5.pdb
+C:\Users\Ольга\source\repos\Homework_cs\Homework_cs_1.5\Homework_cs_1.5\obj\Debug\Homework_cs_1.5.csproj.AssemblyReference.cache
+C:\Users\Ольга\source\repos\Homework_cs\Homework_cs_1.5\Homework_cs_1.5\obj\Debug\Homework_cs_1.5.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\source\repos\Homework_cs\Homework_cs_1.5\Homework_cs_1.5\obj\Debug\Homework_cs_1.5.exe
+C:\Users\Ольга\source\repos\Homework_cs\Homework_cs_1.5\Homework_cs_1.5\obj\Debug\Homework_cs_1.5.pdb
