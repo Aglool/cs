@@ -1,0 +1,6 @@
+C:\Users\Ольга\source\repos\Homework_cs\Homework_cs_1.3\bin\Debug\Homework_cs_1.3.exe.config
+C:\Users\Ольга\source\repos\Homework_cs\Homework_cs_1.3\bin\Debug\Homework_cs_1.3.exe
+C:\Users\Ольга\source\repos\Homework_cs\Homework_cs_1.3\bin\Debug\Homework_cs_1.3.pdb
+C:\Users\Ольга\source\repos\Homework_cs\Homework_cs_1.3\obj\Debug\Homework_cs_1.3.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\source\repos\Homework_cs\Homework_cs_1.3\obj\Debug\Homework_cs_1.3.exe
+C:\Users\Ольга\source\repos\Homework_cs\Homework_cs_1.3\obj\Debug\Homework_cs_1.3.pdb
